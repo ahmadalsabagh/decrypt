@@ -1,4 +1,4 @@
-# decrypt
+# Decryption Program
 For this assignment you need to write an application that takes 3 command-line arguments and decrypts a file into another file: 
  
 java Decrypt key input output 
@@ -29,5 +29,7 @@ T COMMON   PAIRS OF LETTERS  TRIPLETS OF LETTERS  MIXTURES OF TH
 E ABOVE  AND SO FORTH  THE RECEIVER DECIPHERS THE TEXT BY PERFOR 
 MING THE INVERSE SUBSTITUTION 
  
-As you can see, any symbols other than 26 English letters and space are replaced with spaces, and all text is converted to uppercase, for simplicity
-
+As you can see, any symbols other than 26 English letters and space are replaced with spaces, and all text is converted to uppercase, for simplicity  
+## How to run  
+Must run this program in terminal as it takes command line arguments  
+java decrypt key input output  
